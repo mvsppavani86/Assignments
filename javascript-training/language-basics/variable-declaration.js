@@ -13,7 +13,7 @@ console.log('a='+a,'b='+b,'c='+c);
 
 //redeclaration - Var can be redeclared where as let and const cannot be redeclared
 var c=40;
-console.log('c='+c);
+console.log('c='+c); 
 //const a=60; //error - cannot redeclare block scoped variable
 //let b=100; //rror- cannot redeclare block scoped variable
 
