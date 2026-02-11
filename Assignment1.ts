@@ -56,13 +56,16 @@ let countryName:string = "United States"
 console.log("Name of a country: "+countryName);
 //18.Person's eye color: "Brown"
 let eyeColor:string = "Brown"
-console.log("Person's eye color: "+eyeColor);
+console.log("Person's eye cogitlor: "+eyeColor);
 //19.Person's birthplace: "New York City"
 let birthplace:string = "New York City"
 console.log("Person's birthplace: "+birthplace);
 //Distance between two cities: 200.5
 let distanceBetweenCities:number = 200.5
 console.log("Distance between two cities: "+distanceBetweenCities+"km");
+//Pavani
+console.log("My name is Pavani");
+
 
 
 
