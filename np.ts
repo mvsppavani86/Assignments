@@ -64,7 +64,7 @@ console.log("Person's birthplace: "+birthplace);
 let distanceBetweenCities:number = 200.5
 console.log("Distance between two cities: "+distanceBetweenCities+"km");
 //Pavani
-console.log("My name is Pavani");
+//console.log("My name is Pavani");
 
 
 
