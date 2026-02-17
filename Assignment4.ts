@@ -1,7 +1,7 @@
 let transactionAmount:number[]=[50000,-2000,3000,-15000,-200,-300,4000,-3000]
 let debit=0;
 let credit=0;
-let creditedAmount=0, debitedAmount=0,suspiciousDebitTransaction=0;suspiciousDebitTransaction=0;
+let creditedAmount=0, debitedAmount=0;
 
 
 for(let i=0;i<=transactionAmount.length;i++)
